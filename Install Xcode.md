@@ -1,4 +1,4 @@
-# Install an older version of Xcode on macOS
+# Why install an older version of Xcode on macOS
 
 ### Possible reason to install the older version of Xcode for your macOS. 
 There are two possible reasons: your macOS does not have the current OS version (Monterey) installed or you dislike the new feature in the latest version of Xcode.
