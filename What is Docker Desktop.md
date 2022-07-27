@@ -10,11 +10,18 @@
 #### Issue
 - How to reset Wi-Fi using the CLI
 
+
 #### Prerequisite
 You need `sudo` access to following the procedure
 
+
+
 #### Resolution
 The resolution is to resolve the slow Wi-Fi internet connection via CLI by the following procedure: 
+
+
+
+**Important**: The Wi-Fi internet connection will be temporarily disconnected and reconnected automatically after step 4
 
 1. Open the CLI and type `sudo -i`
 
@@ -24,7 +31,7 @@ The resolution is to resolve the slow Wi-Fi internet connection via CLI by the f
 
 4. Type `systemctl restart NetworkManager`
 
-Important: The Wi-Fi internet connection will be temporarily disconnected and reconnected automatically after step 4 
+
 
 
 
